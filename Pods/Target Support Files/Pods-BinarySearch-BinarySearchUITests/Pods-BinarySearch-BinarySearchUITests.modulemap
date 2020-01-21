@@ -1,0 +1,6 @@
+framework module Pods_BinarySearch_BinarySearchUITests {
+  umbrella header "Pods-BinarySearch-BinarySearchUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
